@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.AssemblyInfo.cs
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/Examples/Example005_ifelse/bin/Debug/net6.0/Example005_bool
+/Users/macintosh/Desktop/Examples/Example005_ifelse/bin/Debug/net6.0/Example005_bool.deps.json
+/Users/macintosh/Desktop/Examples/Example005_ifelse/bin/Debug/net6.0/Example005_bool.runtimeconfig.json
+/Users/macintosh/Desktop/Examples/Example005_ifelse/bin/Debug/net6.0/Example005_bool.dll
+/Users/macintosh/Desktop/Examples/Example005_ifelse/bin/Debug/net6.0/Example005_bool.pdb
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.dll
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/refint/Example005_bool.dll
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.pdb
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/Example005_bool.genruntimeconfig.cache
+/Users/macintosh/Desktop/Examples/Example005_ifelse/obj/Debug/net6.0/ref/Example005_bool.dll

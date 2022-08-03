@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/Examples/Examples003_sum/bin/Debug/net6.0/Examples003_sum
+/Users/macintosh/Desktop/Examples/Examples003_sum/bin/Debug/net6.0/Examples003_sum.deps.json
+/Users/macintosh/Desktop/Examples/Examples003_sum/bin/Debug/net6.0/Examples003_sum.runtimeconfig.json
+/Users/macintosh/Desktop/Examples/Examples003_sum/bin/Debug/net6.0/Examples003_sum.dll
+/Users/macintosh/Desktop/Examples/Examples003_sum/bin/Debug/net6.0/Examples003_sum.pdb
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.AssemblyInfo.cs
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.dll
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/refint/Examples003_sum.dll
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.pdb
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/Examples003_sum.genruntimeconfig.cache
+/Users/macintosh/Desktop/Examples/Examples003_sum/obj/Debug/net6.0/ref/Examples003_sum.dll

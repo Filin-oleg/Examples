@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/bin/Debug/net6.0/Example001_halooConsole
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/bin/Debug/net6.0/Example001_halooConsole.deps.json
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/bin/Debug/net6.0/Example001_halooConsole.runtimeconfig.json
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/bin/Debug/net6.0/Example001_halooConsole.dll
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/bin/Debug/net6.0/Example001_halooConsole.pdb
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.AssemblyInfo.cs
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.dll
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/refint/Example001_halooConsole.dll
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.pdb
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/Example001_halooConsole.genruntimeconfig.cache
+/Users/macintosh/Desktop/Examples/Example001_halooConsole/obj/Debug/net6.0/ref/Example001_halooConsole.dll
