@@ -1,0 +1,15 @@
+/Users/macintosh/Desktop/Examples/Example006_base/bin/Debug/net6.0/Example006_base
+/Users/macintosh/Desktop/Examples/Example006_base/bin/Debug/net6.0/Example006_base.deps.json
+/Users/macintosh/Desktop/Examples/Example006_base/bin/Debug/net6.0/Example006_base.runtimeconfig.json
+/Users/macintosh/Desktop/Examples/Example006_base/bin/Debug/net6.0/Example006_base.dll
+/Users/macintosh/Desktop/Examples/Example006_base/bin/Debug/net6.0/Example006_base.pdb
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.csproj.AssemblyReference.cache
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.AssemblyInfoInputs.cache
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.AssemblyInfo.cs
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.csproj.CoreCompileInputs.cache
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.dll
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/refint/Example006_base.dll
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.pdb
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/Example006_base.genruntimeconfig.cache
+/Users/macintosh/Desktop/Examples/Example006_base/obj/Debug/net6.0/ref/Example006_base.dll
